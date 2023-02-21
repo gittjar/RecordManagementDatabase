@@ -1,0 +1,89 @@
+
+BODY 	{ 	color: brown;
+
+		scrollbar-arrow-color: #ffffff;
+		scrollbar-3dlight-color: #000000;
+		scrollbar-darkshadow-color: #000000;
+		scrollbar-face-color: #000000;
+		scrollbar-highlight-color: #ffffff;
+		scrollbar-shadow-color: #ffffff;
+		scrollbar-track-color: #777777; 
+
+		
+
+		
+		
+		
+
+}
+A:link 		{ text-decoration: none; color: FFCC00; font-weight: normal; font-size: x-small}
+A:visited 	{ text-decoration: none; color: 663300; font-weight: normal; font-size: x-small}
+A:active 	{ text-decoration: none; color: black; font-weight: normal; font-size: x-small}
+A:hover 	{ text-decoration: none; color: CC6600; font-weight: normal; font-size: x-small}
+
+
+h3 		{font-family: arial; color: #000000; margin-left: 40}
+
+p		{margin-left: 40; font-family: arial; font-size: x-small}
+
+.mainHeader{
+	color:White;
+	background-color:black;
+	font-size:x-large;
+
+
+.linkit ul
+{
+list-style: none;
+padding: 1;
+margin: 1;
+margin-left: 4%;
+font-family: verdana;
+font-size: small;
+}
+
+.linkit li
+{
+float: left;
+
+margin: 0 0.15em;
+border: 0.1em solid #dcdce9;
+color: #0d2474;
+
+
+}
+
+.teksti  {
+background-color: #FFFFFF;
+height: 450px;
+width: 85%;
+padding-top: 2;
+text-align: left;
+padding-bottom: 2;
+border-style: dashed;
+}
+
+.passu {
+background-color: #FFFFFF;
+font-size:x-small;
+
+}
+
+
+
+
+
+.kuva {
+margin-left: 5%;
+
+}
+
+.alapalkki {
+background-color: #000000;
+width: 85%;
+height: 30px;
+border-style: solid;
+border-top-width: 10px
+
+
+}
